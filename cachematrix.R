@@ -9,7 +9,7 @@
 ## 2. cacheSolve - This function makes use of the caching function makeCacheMatrix 
 ## to find the inverse of a matrix
 
-## This helps in caching the inverse of a matrix
+## This helps in caching the inverse of a matrix.
 
 makeCacheMatrix <- function(x = matrix()) {
  
