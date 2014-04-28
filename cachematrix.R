@@ -7,7 +7,7 @@
 ## setinverse -- caches the calculated inverse
 ## getinverse -- returns the inverse from the cache
 ## 2. cacheSolve - This function makes use of the caching function makeCacheMatrix 
-## to find the inverse of a matrix
+## to find the inverse of a matrix, and make use of makeCacheMatrix for the same
 
 ## This helps in caching the inverse of a matrix
 
